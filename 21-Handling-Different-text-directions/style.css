@@ -1,0 +1,39 @@
+span {
+display: inline-block;
+background: rgb(200, 001, 100);
+padding: 14px 10px;
+color: rgb(233, 144, 36);
+width: 100%;
+box-sizing: border-box;
+font-size: large;
+}
+
+div {
+border: 5px solid #d61a1a;
+box-sizing: border-box;
+margin-bottom: 35px;
+margin-top: 10px;
+}
+
+.first {
+    width: 350px;
+}
+
+.second {
+    writing-mode: vertical-rl;
+    height: 250px;
+    
+}
+
+.special {
+padding: 54px 10px;
+}
+p {
+color: rgb(233, 144, 36);
+}
+h1 {
+color: rgb(200, 001, 100);
+
+
+
+}
